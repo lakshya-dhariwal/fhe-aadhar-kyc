@@ -1,0 +1,19 @@
+{
+  "name": "contract",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "fhevm": "^0.3.0",
+    "fhevmjs": "^0.3.2",
+    "hardhat": "^2.23.0",
+    "hardhat-dependency-compiler": "^1.2.1"
+  }
+}
